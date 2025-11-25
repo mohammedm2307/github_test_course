@@ -1,0 +1,9 @@
+<launch>
+
+<node name="listener" pkg="course_pkg"
+type="listener" />
+
+<node name="talker" pkg="course_pkg"
+type="talker" />
+
+</launch>

@@ -1,0 +1,6 @@
+<launch>
+
+<node name="talker" pkg="course_pkg"
+type="talker" />
+
+</launch>

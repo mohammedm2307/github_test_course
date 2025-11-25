@@ -1,0 +1,10 @@
+<launch>
+
+<node name="integer_pub" pkg="course_pkg"
+type="int_node" />
+
+
+<node name="divider_node" pkg="divider_pkg"
+type="divider_node" />
+
+</launch>

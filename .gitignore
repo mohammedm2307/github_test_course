@@ -1,0 +1,13 @@
+# Ignore build and devel folders (if you initialized git in catkin_ws root)
+build/
+devel/
+install/
+.catkin_workspace
+
+# Ignore temporary files
+*~
+*.swp
+*.log
+
+# Ignore VS Code settings
+.vscode/
