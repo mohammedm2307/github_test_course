@@ -1,0 +1,4 @@
+#Request (empty)
+---
+#Response 
+float32 battery_level #Battery level (0-100%)
